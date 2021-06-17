@@ -7,7 +7,7 @@ Happy Contributing!
 
 -->
 
-### Have you read the [Contributing Guidelines on Pull Requests](https://github.com/ananddasani/Java-Practice-Course/blob/main/CONTRIBUTING.md)?
+### Have you read the [Contributing Guidelines on Pull Requests](https://github.com/ananddasani/Python_Practice_Course/blob/main/CONTRIBUTING.md)?
 
 (Write your answer here.)
 
