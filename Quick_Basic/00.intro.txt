@@ -1,0 +1,37 @@
+Hi , Anand Dasani here :)
+This is a python overview of basics which is necessary for OOP. (Covered Next)
+
+What is the course content ?
+This course includes very basic syntax lookup starting form printing message in various ways, 
+and ending up with practicing some of the most commonly used modules of python.
+
+Course Abstract:
+To get the basic idea how to write code in python and how python is different form other programming language.
+
+
+Index:
+1.  ----> Message Printing 
+2.  ----> Variables in Python 
+3.  ----> Getting user input 
+4.  ----> Basic Mathematics
+5.  ----> String Date Type
+6.  ----> Integer Date Type and some mathematical functions
+7.  ----> Practice Question
+8.  ----> list and tuple
+8.1 ----> Getting Dynamic input in list 
+9.  ----> Practice list and tuple
+10. ----> Dictionary 
+11. ----> Practice Dictionary
+12. ----> Boolean Data Type
+13. ----> BMI calculator 
+14. ----> Loops (while)
+14.1. --> Guess Game 
+15. ----> Loops (for)
+15.1. --> Nested Loops (for)
+16. ----> Exercise 1
+17. ----> Grade system 
+18. ----> Data validation 
+19. ----> Error Handling in python
+20. ----> Optimizing Grade System 
+21. ----> Modules (time)
+22. ----> Modules (matplotlib)
