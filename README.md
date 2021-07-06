@@ -10,7 +10,7 @@ Python-Practice-Course contains amazing and awesome Programs written in Python L
 
 ## Project Abstract 🙋
 
-This Python-Practice-Course will be making use of Python language to allow Students to come onto a One-Stop Portal and share Codes related to their Java Skills which can benefit the other new programmer as a whole. This Practice Course would allow Students to connect over their love of Subjects and helping out of the Community in an effective way, benefitting a lot of Students in the longer run.
+This Python-Practice-Course will be making use of Python language to allow Students to come onto a One-Stop Portal and share Codes related to their Python Skills which can benefit the other new programmer as a whole. This Practice Course would allow Students to connect over their love of Subjects and helping out of the Community in an effective way, benefitting a lot of Students in the longer run.
 
 
 ## Project Background💡
